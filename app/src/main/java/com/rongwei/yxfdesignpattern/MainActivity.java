@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(this, StrategyActivity.class));
                 break;
             case R.id.bt_adapter:
+                System.out.println("dhjdhfjdhfjdhf");
                 break;
             case R.id.bt_command:
                 break;
